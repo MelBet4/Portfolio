@@ -6,4 +6,4 @@ What is included in the website:
 
 Languages used: HTML and CSS 
 
-Link to live website: 
+Link to live website: https://melbet4.github.io/Portfolio/
