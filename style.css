@@ -43,39 +43,16 @@ nav {
     text-decoration: none;
 }
 .hero, .section {
-    padding: 120px 20px;
-}
-
-.home-image{
-    width: 200px;
-    height: 200px;
-    border-radius: 5px;
-    object-fit: cover;
-    padding-top: 10px;
-}
-
-.about-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
     padding: 50px 20px;
 }
-.about-content {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
+
 .about-image {
     width: 200px;
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
 }
-.about-text {
-    max-width: 500px;
-}
+
 
 /* Responsive Navbar */
 @media (max-width: 768px) {
